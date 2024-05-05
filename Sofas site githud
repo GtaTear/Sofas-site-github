@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Диваны на  любой вкус</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+<body style="background-color:rgb(251, 249, 235);" ><script type="text/javascript" src="/86AAF7CD-A199-463A-BEEF-AEE7400B3F0D/main.js?attr=Afq74SUYA9onhXP5PW-V42Bd0f971S_UlzVSk526dtrj15OZxfAwUjGOok0IV4gbvHavcajKI59tyf30ulGo-A" charset="UTF-8"></script><script type="text/javascript" src="https://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=si43CnTDO8d8y52RIxldtY7RkxStVHaopNamQwPsbdpbmKE2rgnjVWgyk5enBC3sCG7AP_5YkwAWqn6PBXKaHQ" charset="UTF-8"></script>
+
+    <nav class="navbar">
+        <a class="nav-a" href="sad.html">Телефон поддрежки</a>
+        <a class="nav-a" href="special-thx.html">Информация о компании</a>
+    </nav>
+
+    <h1 class='start__text' >Стили диванов</h1>
+
+    
+
+
+    <div class="container">
+    <div class="row">
+        <div class="column">
+        <div class="card">
+            <h3>Диваны кабриолет</h3>
+            <div class="fullscreen" id="fullscreen">
+                <img src="Диван-кабриолет.jpg" alt="Expanded Image">
+            </div>
+            <div id="content">
+                <img class="img-card" src="Диван-кабриолет.jpg" alt="Click to Expand" onclick="expandImage(this)">
+            </div>
+        </div>
+        </div>
+    
+        <div class="column">
+        <div class="card">
+            <h3>Это стиль диванов английские с низкими закругленными подлокотниками.</h3>
+    
+            <div class="fullscreen" id="fullscreen">
+                <img src="27b3f19c08e2351e9f02a0521728f4ce.jpg" alt="Expanded Image">
+            </div>
+            <div id="content">
+                <img class="img-card" src="27b3f19c08e2351e9f02a0521728f4ce.jpg" alt="Click to Expand" onclick="expandImage(this)">
+            </div>
+            
+        </div>
+        </div>
+        
+        <div class="column">
+        <div class="card">
+            <h3>Это стиль диванов лоусон</h3>
+    
+            <div class="fullscreen" id="fullscreen">
+                <img src="modulnyy-divan-lawson-798868.jpg" alt="Expanded Image">
+            </div>
+            <div id="content">
+                <img class="img-card" src="modulnyy-divan-lawson-798868.jpg" alt="Click to Expand" onclick="expandImage(this)">
+            </div>
+        
+        </div>
+        </div>
+
+<div class="wide-card">
+<div id = "parent">
+    <div>
+        <img class="wide-img" src = "Состав-диван-Novelti.jpg">
+    </div>
+</div>
+<div class="bg__wide-text">
+<h2 class="wide-text">Все эти диваны состоят из - каркаса, наполнителя, обивки и механизма трансформации</h2>
+</div>
+</div>
+
+
+
+    
+    <div class="container1">
+        <img class="img-dvor" src="Козетка.jpg" alt="" style="width:100%;">
+        <div class="centered">"Это стиль диванов козетка."</div>
+    </div>
+
+</body>
+</html>
